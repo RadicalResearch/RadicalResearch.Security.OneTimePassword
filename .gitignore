@@ -1,7 +1,10 @@
 ﻿
 bin/
 obj/
+/.vs
+/artifacts
 
 *.suo
 *.user
 *.lock.json
+

@@ -2,7 +2,7 @@
   "name": "RadicalResearch.Security.OneTimePassword",
   "description": "HMAC-Based One-Time Password Algorithm Implementation for dotnet core. Designed to support two factor authentication with common authenticator apps like the Microsoft and Google authenticators.",
   "authors": [ "Sam Greenhalgh" ],
-  "version": "0.1.0-beta-*",
+  "version": "0.2.0-*",
   "buildOptions": {
     "debugType": "portable"
   },
